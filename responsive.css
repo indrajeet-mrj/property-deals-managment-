@@ -110,6 +110,7 @@
 
 @media (max-width:500px) {
     .hero-el p{
+        line-height: 20px;
         margin-top: 20px;
     }
     .hero-el:nth-child(1) h1 i{
